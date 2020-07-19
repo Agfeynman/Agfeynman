@@ -2,7 +2,7 @@
 
 ## I am open to hear proposals for 100% remote positions
 
-### In this profile you will find teaching resources and small projects developed with didactic intention, problems solved in various programming languages ​​and interesting open source projects that I develop.
+### In this profile you will find teaching resources and small projects developed with didactic intention, problems solved in various programming languages ​​and interesting open source projects I am working on.
 
 - 🔭 I’m currently working on improving my ability to teach and delve into Python and Javascript
 - 🌱 I’m currently learning AWS
