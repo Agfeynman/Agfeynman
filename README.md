@@ -1,4 +1,4 @@
-# 👋 Hi there, I am Andrés, a Full Stack developer and Tech Lead based in the :palm_tree: Canary Islands :palm_tree:
+# 👋 Hi there, I am Andrés, a Full Stack developer based in the :palm_tree: Canary Islands :palm_tree:
 
 ## I am open to hear proposals for 100% remote positions
 
