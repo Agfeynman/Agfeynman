@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AndrésSoftware Engineer based in the palm_tree Canary Islands palm_tree</h1>
+<h1 align="center">Hi 👋, I'm Andrés. I am a Software Engineer based in the :palm_tree: Canary Islands :palm_tree: </h1>
 <h3 align="center">I am open to hear proposals for 100% remote positions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agfeynman&label=Profile%20views&color=0e75b6&style=flat" alt="agfeynman" /> </p>
