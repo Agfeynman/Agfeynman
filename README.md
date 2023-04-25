@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **JavaScript, React, anything related with the JS ecosystem, Algorithms & Data Structures**
 
-- 📫 How to reach me **agutrab@gmail.com**
+- 📫 How to reach me **agchesspub@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
