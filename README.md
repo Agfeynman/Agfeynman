@@ -124,10 +124,11 @@ me = SeniorDeveloper()
 
 **Production-grade RAG system for personal knowledge management (Top 5% implementations)**
 
-[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/agfeynman/obsidian-rag)
-[![LanceDB](https://img.shields.io/badge/LanceDB-Vector_DB-8B5CF6?style=flat-square)](https://github.com/agfeynman/obsidian-rag)
-[![Coverage](https://img.shields.io/badge/Coverage-≥80%25-success?style=flat-square)](https://github.com/agfeynman/obsidian-rag)
-[![Mutation](https://img.shields.io/badge/MSI-≥80%25-success?style=flat-square)](https://github.com/agfeynman/obsidian-rag)
+![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white)
+![LanceDB](https://img.shields.io/badge/LanceDB-Vector_DB-8B5CF6?style=flat-square)
+![Coverage](https://img.shields.io/badge/Coverage-≥80%25-success?style=flat-square)
+![Mutation](https://img.shields.io/badge/MSI-≥80%25-success?style=flat-square)
+![Private](https://img.shields.io/badge/Status-Private-lightgrey?style=flat-square)
 
 </div>
 
