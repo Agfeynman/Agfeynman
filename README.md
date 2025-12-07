@@ -197,9 +197,9 @@ principles:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=agfeynman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=agfeynman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agfeynman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=10&hide=html,css)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=agfeynman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=10&hide=html,css)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=agfeynman&theme=tokyonight&hide_border=true&locale=es&background=0d1117)](https://git.io/streak-stats)
 
